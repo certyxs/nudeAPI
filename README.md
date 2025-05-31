@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 
-Simple Python wrapper for fetching images from nekobot.xyz with caching and a built-in server.  
+Simple Python wrapper for fetching nude images and a built-in server.  
 🔥 Fast, lightweight, and easy to use!
 
 ---
