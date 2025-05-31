@@ -2,10 +2,19 @@
 
 Simple Python wrapper for fetching images from nekobot.xyz with caching and a built-in server.
 
+---
 
-# Example
+## Setup
 
-```
+Before using the API, **run `nudeAPI-SETUP.py`** to install all required dependencies.
+
+Put **all files in the same folder** before running your program.
+
+---
+
+## Example
+
+```python
 from nudeAPI import NudeAPI
 
 api = NudeAPI()
@@ -18,4 +27,3 @@ try:
     print("Image URL:", url)
 except Exception as e:
     print("Error:", e)
-```
