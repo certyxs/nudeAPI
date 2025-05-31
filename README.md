@@ -5,7 +5,7 @@ Simple Python wrapper for fetching images from nekobot.xyz with caching and a bu
 
 # Example
 
-"
+```
 from nudeAPI import NudeAPI
 
 api = NudeAPI()
@@ -18,4 +18,4 @@ try:
     print("Image URL:", url)
 except Exception as e:
     print("Error:", e)
-"
+```
